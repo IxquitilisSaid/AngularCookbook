@@ -28,11 +28,11 @@ export class ShoppingEditComponent implements OnInit {
   }
 
   onRemoveItem() {
-
+    // add later
   }
 
   onReset() {
-
+    // add later
   }
 
 }
